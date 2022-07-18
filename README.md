@@ -1,4 +1,5 @@
-/*
+##GO
+
 Go is a popular programming language
 Go is used to create computer programs.
 
@@ -38,6 +39,4 @@ Go file consists of the following parts: [4]
 - Import Packages
 - Functions
 - Statements and expressions
-
-*/
 
